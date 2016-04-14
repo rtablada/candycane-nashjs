@@ -5,6 +5,7 @@
   "candycane-cli": {},
   "scripts": {
     "postinstall": "./node_modules/.bin/candycane build",
+    "build": "./node_modules/.bin/candycane build",
     "start": "node ./dist/bin/www",
     "migrate": "./node_modules/.bin/knex migrate:latest"
   },
