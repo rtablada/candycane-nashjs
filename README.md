@@ -1,5 +1,9 @@
 ## Candycane.js Nash JS Example
 
+This is a deployable API using Heroku.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 This is an example of using Candycane.js in your project.
 This application was shown at Nash.js.
 
