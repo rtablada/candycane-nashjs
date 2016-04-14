@@ -37,3 +37,5 @@ And now you should be able to visit:
 If you would like to learn more about Candycane.js or help out visit the [documentation](https://github.com/candycanejs/candycane-cli).
 
 * https://github.com/candycanejs/candycane-cli
+
+See the slides: http://slides.com/rtablada/deck-3
