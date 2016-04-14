@@ -4,7 +4,7 @@ var config = {
   development: {
     client: 'postgresql',
     connection: {
-      database: 'store-api',
+      database: 'nashjs',
       user:     process.env.USER,
       password: '',
     },

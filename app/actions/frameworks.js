@@ -12,6 +12,9 @@ export default class extends Action {
     // App container
     const knex = this.app.make(`db`);
 
-    return knex(`frameworks`).select();
+    return knex(`frameworks`).select().then((x) => x, (err) => {
+      console.log(err);
+      return err;
+    });
   }
 }
